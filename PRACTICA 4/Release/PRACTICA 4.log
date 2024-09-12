@@ -1,0 +1,41 @@
+﻿  Window.cpp
+  practica4_conjerarquia.cpp
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(272,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(273,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(277,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(278,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(280,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(281,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(28,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(191,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(233,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(233,32): warning C4244:         with
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(233,32): warning C4244:         [
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(233,32): warning C4244:             _Ty=GLfloat
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(233,32): warning C4244:         ]
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(235,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(235,32): warning C4244:         with
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(235,32): warning C4244:         [
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(235,32): warning C4244:             _Ty=GLfloat
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(235,32): warning C4244:         ]
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(355,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\practica4_conjerarquia.cpp(357,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\PRACTICA 4\Window.cpp(100): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  39 of 615 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  PRACTICA 4.vcxproj -> C:\Users\riosn\OneDrive\Documentos\NOVENO SEMESTRE\COMPUTACION GRRAFICA\PRACTICA 4\Release\PRACTICA 4.exe
